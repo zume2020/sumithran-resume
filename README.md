@@ -10,6 +10,7 @@
 
 ## Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d7da2f5-715e-401f-9baf-ece07de9187e/deploy-status)](https://app.netlify.com/sites/sumithran/deploys)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
